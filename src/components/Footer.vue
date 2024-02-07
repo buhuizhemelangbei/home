@@ -14,8 +14,8 @@
         <!-- 以下信息请不要修改哦 -->
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
-          <a :href="config.github" target="_blank">
-            {{  }}
+          <a :href="zenhuizhemelangbei.love" target="_blank">
+          China
           </a>
         </span>
         <!-- 站点备案 -->
