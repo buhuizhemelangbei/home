@@ -4,7 +4,7 @@
       <Icon size="20">
         <Link />
       </Icon>
-      <span class="title">网站列表</span>
+      <span class="title">一些奇奇怪怪的地方</span>
     </div>
     <!-- 网站列表 -->
     <Swiper
