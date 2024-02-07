@@ -15,8 +15,6 @@
         <span class="hidden">
           &amp;&nbsp;Made&nbsp;by
          China
-            {{ config.author }}
-          </a>
         </span>
         <!-- 站点备案 -->
         <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
