@@ -2,7 +2,7 @@
   <div class="github-project">
     <div class="title">
       <github-one theme="two-tone" size="24" :fill="['#efefef', '#00000020']" />
-      <span>Github</span>
+      <span>一直欠一个抱歉@yjh</span>
     </div>
     <Swiper
       :modules="[Pagination, Mousewheel]"
