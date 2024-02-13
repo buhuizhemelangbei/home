@@ -1,8 +1,7 @@
 <template>
   <div class="github-project">
     <div class="title">
-      <github-one theme="two-tone" size="24" :fill="['#efefef', '#00000020']" />
-      <span>       </span>
+      <span>Github 项目</span>
     </div>
     <Swiper
       :modules="[Pagination, Mousewheel]"
@@ -35,6 +34,7 @@
     </Swiper>
   </div>
 </template>
+
 
 <script setup>
 import { GithubOne, Bookmark } from "@icon-park/vue-next";
