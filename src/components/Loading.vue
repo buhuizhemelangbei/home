@@ -6,7 +6,7 @@
         <span class="name">
           {{ siteName }}
         </span>
-        <span class="tip"> 加载中 </span>
+        <span class="tip"> 此生泰山重，勿作鸿毛遗 </span>
       </div>
     </div>
     <div class="loader-section section-left" />
