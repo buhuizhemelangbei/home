@@ -11,8 +11,8 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https:music.zenhuizhemelangbei.love"
+    "name": "各种各样的知识",
+    "link": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
   },
   {
     "icon": "Compass",
@@ -29,4 +29,19 @@
     "name": "站点监测",
     "link": "https://web.zenhuizhemelangbei.love"
   }
+    {
+    "icon": "",
+    "name": "ChatGPT",
+    "link": "https://openai.com/chatgpt"
+  }
+    {
+    "icon": "",
+    "name": "Midjourney",
+    "link": "https://www.midjourney.com/home"
+    }
+    {
+    "icon": "",
+    "name": "阿里云SD",
+    "link": "https://developer.aliyun.com/topic/aigc"
+    }
 ]
