@@ -1,4 +1,4 @@
-[
+9[
   {
     "icon": "Blog",
     "name": "bing",
@@ -30,17 +30,17 @@
     "link": "https://web.zenhuizhemelangbei.love"
   },
   {
-    "icon": "Book",
+    "icon": "",
     "name": "ChatGPT",
     "link": "https://openai.com/chatgpt"
   },
   {
-    "icon": "Book",
+    "icon": "",
     "name": "Midjourney(MJ)",
     "link": "https://www.midjourney.com/home"
    },
   {
-    "icon": "Book",
+    "icon": "",
     "name": "阿里云SD",
     "link": "https://developer.aliyun.com/topic/aigc"
    }
