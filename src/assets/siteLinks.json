@@ -30,17 +30,17 @@
     "link": "https://web.zenhuizhemelangbei.love"
   }
     {
-    "icon": "",
+    "icon": "Book",
     "name": "ChatGPT",
     "link": "https://openai.com/chatgpt"
   }
     {
-    "icon": "",
+    "icon": "z",
     "name": "Midjourney(MJ)",
     "link": "https://www.midjourney.com/home"
     }
     {
-    "icon": "",
+    "icon": "s",
     "name": "阿里云SD",
     "link": "https://developer.aliyun.com/topic/aigc"
     }
