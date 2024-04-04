@@ -28,5 +28,20 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://web.zenhuizhemelangbei.love"
-  }
+  },
+  {
+    "icon": "Book",
+    "name": "ChatGPT",
+    "link": "https://openai.com/chatgpt"
+  },
+  {
+    "icon": "Book",
+    "name": "Midjourney(MJ)",
+    "link": "https://www.midjourney.com/home"
+   },
+  {
+    "icon": "Book",
+    "name": "阿里云SD",
+    "link": "https://developer.aliyun.com/topic/aigc"
+   }
 ]
