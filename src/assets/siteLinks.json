@@ -35,12 +35,12 @@
     "link": "https://openai.com/chatgpt"
   }
     {
-    "icon": "z",
+    "icon": "Book",
     "name": "Midjourney(MJ)",
     "link": "https://www.midjourney.com/home"
     }
     {
-    "icon": "s",
+    "icon": "Book",
     "name": "阿里云SD",
     "link": "https://developer.aliyun.com/topic/aigc"
     }
